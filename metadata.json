@@ -1,0 +1,5 @@
+{
+  "name": "WEBER",
+  "description": "A modern, AI-inspired Text-to-Image Generator web application that allows users to create stunning visuals from text prompts using the Gemini API. WEBER features style selection, random prompt generation, and a sleek, responsive red and black themed interface.",
+  "requestFramePermissions": []
+}
